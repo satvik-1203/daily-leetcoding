@@ -11,8 +11,6 @@ Given a binary tree root, a node X in the tree is named good if in the path from
 
 Return the number of good nodes in the binary tree.
 
-![example]()
-
 ```js
 /**
  * Definition for a binary tree node.
