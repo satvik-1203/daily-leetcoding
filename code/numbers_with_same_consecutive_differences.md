@@ -13,8 +13,6 @@ Note that every number in the answer must not have leading zeros. For example, 0
 
 You may return the answer in any order.
 
-<!-- ![example]() -->
-
 ```js:solution.js showLineNumbers
 /**
  * @param {number} n
