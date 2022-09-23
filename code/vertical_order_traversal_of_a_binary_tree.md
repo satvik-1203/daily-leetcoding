@@ -5,6 +5,7 @@ topics: Hash Table, Tree, DFS, BFS
 date: 09/04/2022
 ---
 
+
 ## Question
 
 Given the root of a binary tree, calculate the vertical order traversal of the binary tree.
