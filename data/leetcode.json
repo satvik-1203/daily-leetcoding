@@ -6,7 +6,6 @@
     "topics": "Array, Greedy, Sorting",
     "link": "number_of_weak_characters_in_the_game"
   },
-
   {
     "name": "Binary Tree Inorder Traversal",
     "difficulty": "easy",
@@ -14,7 +13,6 @@
     "date": "09/08/2022",
     "link": "binary_tree_inorder_traversal"
   },
-
   {
     "name": "String from Binary Tree",
     "difficulty": "easy",
