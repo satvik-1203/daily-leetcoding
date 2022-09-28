@@ -28,8 +28,9 @@ To check if 2 words are anagrams, we need to make sure they have same amount of 
 
 How do we tell if tea and eat are anagrams? There are couple of ways to do it but the one I'll be doing is by check if they have same sorted charCode. eat - aet, tea - aet. Since they have same sorted charCode we can tell they are anagrams. There is another simpler way but I don't want to complicate this code so let's just follow this one :).
 
-Time: O(n _ klogk)
-Space: O(n _ k)
+Time: O(n \* klogk)
+
+Space: O(n \* k)
 
 ```js:example.js showLineNumbers
 
@@ -42,7 +43,7 @@ var groupAnagrams = function(strs) {
     const map = new Map();
 
     strs.forEach(el => {
-        const sortedEl = el.split("").sort((a,b)=> a.charCodeAt(0)-b.charCodeAt(0)).join("");
+        const sortedEl = el.split("").sort((a,b) => a.charCodeAt(0) - b.charCodeAt(0)).join("");
 
         if(map.has(sortedEl)) map.get(sortedEl).push(el);
         else map.set(sortedEl, [el]);
@@ -52,3 +53,5 @@ var groupAnagrams = function(strs) {
 };
 
 ```
+
+Question: https://leetcode.com/problems/group-anagrams/

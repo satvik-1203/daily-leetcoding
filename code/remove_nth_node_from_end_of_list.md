@@ -26,6 +26,7 @@ Output: [2]
 ## Answer
 
 Time: O(n)
+
 space: O(1)
 
 Essentially we use 2 pointers, left and right. the difference between left n right will always be `n` such that when `right.next == null` we can just perform `left.next = left.next.next` and return `head`.
