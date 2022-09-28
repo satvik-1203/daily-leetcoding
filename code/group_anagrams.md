@@ -1,3 +1,10 @@
+---
+name: Group Anagrams
+difficulty: Medium
+topics: Array, Hash Table, String, Sorting
+date: 09/27/2022
+---
+
 ## Question:
 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
@@ -13,12 +20,6 @@ Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 Input: strs = [""]
 Output: [[""]]
 
-Constrains:
-
-- 1 <= strs.length <= 104
-- 0 <= strs[i].length <= 100
-- strs[i] consists of lowercase English letters.
-
 ```
 
 ## Answer
@@ -30,7 +31,7 @@ How do we tell if tea and eat are anagrams? There are couple of ways to do it bu
 Time: O(n _ klogk)
 Space: O(n _ k)
 
-```js:example.js showNumberLines
+```js:example.js showLineNumbers
 
 /**
  * @param {string[]} strs

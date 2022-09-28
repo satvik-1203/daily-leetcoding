@@ -21,14 +21,6 @@ Output: []
 Input: head = [1,2], n = 2
 Output: [2]
 
-
-Constrains:
-
-- The number of nodes in the list is sz.
-- 1 <= sz <= 30
-- 0 <= Node.val <= 100
-- 1 <= n <= sz
-
 ```
 
 ## Answer
@@ -40,7 +32,7 @@ Essentially we use 2 pointers, left and right. the difference between left n rig
 
 The only edge case is remove first. and in case of remove first, maintaining the n difference between left and right would make us start at `right == null` which means `return left.next`.
 
-```js:example.js showNumberLines
+```js:example.js showLineNumbers
 
 /**
  * @param {ListNode} head
