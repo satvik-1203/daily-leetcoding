@@ -1,5 +1,19 @@
 [
   {
+    "name": "Group Anagrams",
+    "difficulty": "medium",
+    "topics": "Array, Hash Table, String, Sorting",
+    "date": "09/27/2022",
+    "link": "group_anagrams"
+  },
+  {
+    "name": "Remove Nth node from the end of the list",
+    "difficulty": "medium",
+    "date": "09/27/2022",
+    "topics": "LinkedList, Two Pointers",
+    "link": "remove_nth_node_from_the_end_of_the_list"
+  },
+  {
     "name": "Number of weak characters in the game",
     "difficulty": "medium",
     "date": "09/09/2022",
