@@ -21,7 +21,6 @@ Output: []
 Input: head = [1,2], n = 2
 Output: [2]
 
-```
 
 Constrains:
 
@@ -29,6 +28,8 @@ Constrains:
 - 1 <= sz <= 30
 - 0 <= Node.val <= 100
 - 1 <= n <= sz
+
+```
 
 ## Answer
 

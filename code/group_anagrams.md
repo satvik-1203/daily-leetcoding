@@ -13,13 +13,13 @@ Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 Input: strs = [""]
 Output: [[""]]
 
-```
-
 Constrains:
 
 - 1 <= strs.length <= 104
 - 0 <= strs[i].length <= 100
 - strs[i] consists of lowercase English letters.
+
+```
 
 ## Answer
 
