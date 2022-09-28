@@ -1,7 +1,7 @@
 ---
-name: Group Anagrams
-difficulty: Medium
-topics: Array, Hash Table, String, Sorting
+name: Group Anagrams,
+difficulty: Medium,
+topics: Array, Hash Table, String, Sorting,
 date: 09/27/2022
 ---
 

@@ -11,7 +11,7 @@
     "difficulty": "medium",
     "date": "09/27/2022",
     "topics": "LinkedList, Two Pointers",
-    "link": "remove_nth_node_from_the_end_of_the_list"
+    "link": "remove_nth_node_from_end_of_list"
   },
   {
     "name": "Number of weak characters in the game",
