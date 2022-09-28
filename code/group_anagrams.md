@@ -1,10 +1,3 @@
----
-name: Group Anagrams,
-difficulty: Medium,
-topics: Array, Hash Table, String, Sorting,
-date: 09/27/2022
----
-
 ## Question:
 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.

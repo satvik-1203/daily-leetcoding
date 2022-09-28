@@ -1,8 +1,8 @@
 ---
-name: Remove Nth node from the end of the list,
-difficulty: Medium,
-topics: LinkedList, Two Pointers,
-date: 09/27/2022,
+name: Remove Nth node from the end of the list
+difficulty: Medium
+topics: LinkedList, Two Pointers
+date: 09/27/2022
 ---
 
 ## Question:
