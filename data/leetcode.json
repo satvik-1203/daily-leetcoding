@@ -1,5 +1,12 @@
 [
   {
+    "name": "Find the K closest Elements",
+    "difficulty": "medium",
+    "topics": "Array, Two Pointers",
+    "date": "09/28/2022",
+    "link": "658"
+  },
+  {
     "name": "Group Anagrams",
     "difficulty": "medium",
     "topics": "Array, Hash Table, String, Sorting",
