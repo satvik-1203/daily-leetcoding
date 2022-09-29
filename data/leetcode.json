@@ -1,5 +1,13 @@
 [
   {
+    "name": "Top K Frequent Elements",
+    "difficulty": "medium",
+    "topics": "Array, Hash Table, Bucket Sort",
+    "date": "09/28/2022",
+    "link": "347"
+  },
+
+  {
     "name": "Find the K closest Elements",
     "difficulty": "medium",
     "topics": "Array, Two Pointers",
