@@ -1,5 +1,12 @@
 [
   {
+    "name": "Product Of Array Except Self",
+    "difficulty": "medium",
+    "date": "09/29/2022",
+    "topics": "Array, Prefix Sum",
+    "link": "238"
+  },
+  {
     "name": "Top K Frequent Elements",
     "difficulty": "medium",
     "topics": "Array, Hash Table, Bucket Sort",
