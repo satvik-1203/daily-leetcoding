@@ -97,7 +97,8 @@ var productExceptSelf = function(nums) {
         prefix *= el;
     })
 
-    // for postfix and put it back in the res array
+    // for postfix
+    // put the element back in the res array by multiplying
 
     for(let i = nums.length - 1; i >= 0; i--){
         res[i] *= postfix;
