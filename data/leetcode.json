@@ -4,7 +4,7 @@
     "difficulty": "medium",
     "date": "09/29/2022",
     "topics": "Array, Prefix Sum",
-    "link": "238"
+    "link": "product_of_array_except_self"
   },
   {
     "name": "Top K Frequent Elements",
