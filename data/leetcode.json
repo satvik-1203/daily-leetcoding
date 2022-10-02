@@ -1,5 +1,12 @@
 [
   {
+    "name": "Longest Consecutive Sequence",
+    "date": "10/1/2022",
+    "topics": "Array, Hash Set, Union Find",
+    "difficulty": "medium",
+    "link": "128"
+  },
+  {
     "name": "Valid Sudoko",
     "difficulty": "medium",
     "topics": "Array, Hash Table, Hash Set",
