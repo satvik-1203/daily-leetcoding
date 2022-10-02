@@ -1,5 +1,13 @@
 [
   {
+    "name": "Valid Sudoko",
+    "difficulty": "medium",
+    "topics": "Array, Hash Table, Hash Set",
+    "date": "09/30/2022",
+    "link": "36"
+  },
+
+  {
     "name": "Product Of Array Except Self",
     "difficulty": "medium",
     "date": "09/29/2022",
