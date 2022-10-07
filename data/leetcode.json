@@ -1,5 +1,12 @@
 [
   {
+    "name": "Three Sum",
+    "date": "10/4/2022",
+    "topics": "Array, Two Pointers, Sorting",
+    "difficulty": "medium",
+    "link": "15"
+  },
+  {
     "name": "Two Sum - Input Array Is Sorted",
     "date": "10/3/2022",
     "topics": "Array, Two Pointers, Binary Search",
