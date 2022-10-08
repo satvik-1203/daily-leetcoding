@@ -1,5 +1,12 @@
 [
   {
+    "name": "Trapping Rain Water",
+    "difficulty": "hard",
+    "topics": "Array, Two Pointers, Dynamic Programming",
+    "date": "10/06/2022",
+    "link": "42"
+  },
+  {
     "name": "Container With Most Water",
     "difficulty": "medium",
     "topics": "Array, Greedy, Two Pointers",
