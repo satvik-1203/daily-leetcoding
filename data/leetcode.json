@@ -1,5 +1,12 @@
 [
   {
+    "name": "Longest Substring Without Repeated Chars",
+    "difficulty": "medium",
+    "topics": "Array, Sliding Window",
+    "date": "10/10/2022",
+    "link": "3"
+  },
+  {
     "name": "Trapping Rain Water",
     "difficulty": "hard",
     "topics": "Array, Two Pointers, Dynamic Programming",
