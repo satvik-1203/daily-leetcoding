@@ -1,5 +1,12 @@
 [
   {
+    "name": "Permutation In String",
+    "difficulty": "medium",
+    "topics": "Hash Table, Sliding Window, String, Two Pointers",
+    "date": "10/12/2022",
+    "link": "567"
+  },
+  {
     "name": "Longest Repeating Character Replacements",
     "difficulty": "medium",
     "topics": "Hash Table, Sliding Window, String",
