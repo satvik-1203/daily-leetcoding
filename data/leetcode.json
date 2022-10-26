@@ -1,5 +1,11 @@
 [
   {
+    "name": "Copy List With Random Pointer",
+    "difficulty": "medium",
+    "topics": "Linked List, hashMap",
+    "date": "10/26/2022"
+  },
+  {
     "name": "Reorder List",
     "difficulty": "medium",
     "topics": "Linked List, Hash Map",
