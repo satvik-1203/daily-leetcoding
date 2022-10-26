@@ -3,7 +3,8 @@
     "name": "Copy List With Random Pointer",
     "difficulty": "medium",
     "topics": "Linked List, hashMap",
-    "date": "10/26/2022"
+    "date": "10/26/2022",
+    "link": "138"
   },
   {
     "name": "Reorder List",
