@@ -1,7 +1,7 @@
 [
   {
     "name": "LRU Cache",
-    "difficulty": "medium",
+    "difficulty": "Hard",
     "topics": "Doubly Linked List, Hash Table, Algorithm Design",
     "date": "10/29/2022",
     "link": "146"
