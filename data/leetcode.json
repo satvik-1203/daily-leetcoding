@@ -1,5 +1,12 @@
 [
   {
+    "name": "Accounts Merge",
+    "difficulty": "medium",
+    "topics": "Graphs, DFS, BFS",
+    "date": "11/05/2022",
+    "link": "721"
+  },
+  {
     "name": "Reverse Node in K-Groups",
     "difficulty": "hard",
     "topics": "Linked List",
