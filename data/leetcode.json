@@ -1,5 +1,12 @@
 [
   {
+    "name": "Remove Duplicated From Sorted Array",
+    "difficulty": "easy",
+    "topics": "Array, Two Pointers",
+    "date": "11/11/2022",
+    "link": "26"
+  },
+  {
     "name": "Accounts Merge",
     "difficulty": "medium",
     "topics": "Graphs, DFS, BFS",
