@@ -1,12 +1,5 @@
 [
   {
-    "name": "r emoveDuplicated From Sorted Array",
-    "difficulty": "easy",
-    "topics": "Array, Two Pointers",
-    "date": "11/11/2022",
-    "link": "926"
-  },
-  {
     "name": "Remove Duplicated From Sorted Array",
     "difficulty": "easy",
     "topics": "Array, Two Pointers",
