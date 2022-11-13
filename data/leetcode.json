@@ -14,7 +14,7 @@
     "link": "721"
   },
   {
-    "name": "Reverse Node in K-Groups",
+    "name": "Reverse Node In K-Groups",
     "difficulty": "hard",
     "topics": "Linked List",
     "date": "10/30/2022",
@@ -129,7 +129,7 @@
   },
 
   {
-    "name": "Find the K closest Elements",
+    "name": "Find The K Closest Elements",
     "difficulty": "medium",
     "topics": "Array, Two Pointers",
     "date": "09/28/2022",
@@ -143,14 +143,14 @@
     "link": "group_anagrams"
   },
   {
-    "name": "Remove Nth node from the end of the list",
+    "name": "Remove Nth Node From The End Of The List",
     "difficulty": "medium",
     "date": "09/27/2022",
     "topics": "LinkedList, Two Pointers",
     "link": "remove_nth_node_from_end_of_list"
   },
   {
-    "name": "Number of weak characters in the game",
+    "name": "Number Of Weak Characters In The Game",
     "difficulty": "medium",
     "date": "09/09/2022",
     "topics": "Array, Greedy, Sorting",
@@ -164,7 +164,7 @@
     "link": "binary_tree_inorder_traversal"
   },
   {
-    "name": "String from Binary Tree",
+    "name": "String From Binary Tree",
     "difficulty": "easy",
     "topics": "String, Binary Tree, DFS",
     "date": "09/07/2022",
@@ -185,21 +185,21 @@
     "link": "n-ary_tree_level_order_traversal"
   },
   {
-    "name": "Vertical Order Traversal of a Binary Tree",
+    "name": "Vertical Order Traversal Of A Binary Tree",
     "difficulty": "hard",
     "topics": "Hash Table, Tree, DFS, BFS",
     "date": "09/04/2022",
     "link": "vertical_order_traversal_of_a_binary_tree"
   },
   {
-    "name": "Numbers with same consecutive differences",
+    "name": "Numbers With Same Consecutive Differences",
     "difficulty": "medium",
     "topics": "Backtracking, BFS",
     "date": "09/03/2022",
     "link": "numbers_with_same_consecutive_differences"
   },
   {
-    "name": "Average of levels in binary tree",
+    "name": "Average Of Levels In Binary Tree",
     "difficulty": "easy",
     "topics": "Tree, DFS, BFS",
     "date": "09/01/2022",
