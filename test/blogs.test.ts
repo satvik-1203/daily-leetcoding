@@ -1,6 +1,6 @@
-const leetcodeData = require("../data/leetcode.json");
 const fs = require("fs/promises");
 const path = require("path");
+const leetcodeData = require("../data/leetcode.json");
 
 test("Meta data format in data/leetcode.json", () => {
   leetcodeData.forEach((data) => {
