@@ -1,5 +1,12 @@
 [
   {
+    "name": "Find Median From Data Stream",
+    "difficulty": "hard",
+    "topics": "Array, Heaps, Algorithm Design",
+    "date": "11/13/2022",
+    "link": "295"
+  },
+  {
     "name": "Remove Duplicated From Sorted Array",
     "difficulty": "easy",
     "topics": "Array, Two Pointers",
