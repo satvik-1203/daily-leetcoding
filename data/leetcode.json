@@ -1,5 +1,12 @@
 [
   {
+    "name": "Find The Pivot Positions",
+    "difficulty": "medium",
+    "topics": "Array, Greedy, Prefix, Postfix",
+    "date": "30/01/2023",
+    "link": "xo1"
+  },
+  {
     "name": "Find Median From Data Stream",
     "difficulty": "hard",
     "topics": "Array, Heaps, Algorithm Design",
