@@ -1,5 +1,12 @@
 [
   {
+    "name": " All Nodes Distance K in Binary Tree",
+    "difficulty": "medium",
+    "topics": "Tree, DFS, BFS",
+    "date": "06/11/2023",
+    "link": "863"
+  },
+  {
     "name": "Find The Pivot Positions",
     "difficulty": "medium",
     "topics": "Array, Greedy, Prefix, Postfix",
